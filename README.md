@@ -13,6 +13,17 @@
 | 2 | PentesterLab - SQLi to Shell 2 - MySQL | Pentesterlab - Free  | https://www.pentesterlab.com/exercises/from_sqli_to_shell_II/course |
 | 3 | PentesterLab - SQLi to Shell - Postgres | Pentesterlab - Free  | https://pentesterlab.com/exercises/from_sqli_to_shell_pg_edition/course |
 | 4 | Java Deserialization WebApp | GitHub - Free | https://github.com/hvqzao/java-deserialize-webapp |
+| 4 | XSS and MySQL FILE | Pentesterlab - Free | https://pentesterlab.com/exercises/xss_and_mysql_file/course |
+
+
+
+| Order | Name |  Link |
+|--- | ----- | ----- |
+| 1 | reverse shell cheat sheet | https://highon.coffee/blog/reverse-shell-cheat-sheet/ |
+| 2 | Payload All the Things | https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files |
+
+
+
 
 
 
