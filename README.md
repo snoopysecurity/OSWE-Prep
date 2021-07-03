@@ -15,7 +15,7 @@
 | 4 | Java Deserialization WebApp | GitHub - Free | https://github.com/hvqzao/java-deserialize-webapp |
 | 4 | XSS and MySQL FILE | Pentesterlab - Free | https://pentesterlab.com/exercises/xss_and_mysql_file/course |
 
-
+### Cheat Sheets
 
 | Order | Name |  Link |
 |--- | ----- | ----- |
@@ -24,9 +24,9 @@
 | 2 | sql injection cheat sheet | https://portswigger.net/web-security/sql-injection/cheat-sheet |
 
 
-
-
-
+### Exam Resource 
+| 1 | Proctoring Student Manual | https://help.offensive-security.com/hc/en-us/articles/360050299352-Proctoring-Tool-Student-Manual |
+| 1 | OSWE Exam Guide | https://help.offensive-security.com/hc/en-us/articles/360046869951l |
 
 
 
