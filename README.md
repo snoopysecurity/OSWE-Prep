@@ -21,7 +21,7 @@
 |--- | ----- | ----- |
 | 1 | reverse shell cheat sheet | https://highon.coffee/blog/reverse-shell-cheat-sheet/ |
 | 2 | Payload All the Things | https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files |
-
+| 2 | sql injection cheat sheet | https://portswigger.net/web-security/sql-injection/cheat-sheet |
 
 
 
