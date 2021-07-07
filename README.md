@@ -14,6 +14,7 @@
 | 3 | PentesterLab - SQLi to Shell - Postgres | Pentesterlab - Free  | https://pentesterlab.com/exercises/from_sqli_to_shell_pg_edition/course |
 | 4 | Java Deserialization WebApp | GitHub - Free | https://github.com/hvqzao/java-deserialize-webapp |
 | 4 | XSS and MySQL FILE | Pentesterlab - Free | https://pentesterlab.com/exercises/xss_and_mysql_file/course |
+| 4 | Zors |  VulnHub - Free | https://www.vulnhub.com/entry/tophatsec-zorz,117/ |
 
 ### Cheat Sheets
 
@@ -37,6 +38,7 @@
 | Order | Name | Type | Link |
 |--- | ----- | ----- | --- |
 | 1 | dev/random/pipe | VulnHub - Free | https://www.vulnhub.com/entry/devrandom-pipe,124/ |
+
 
 
 
