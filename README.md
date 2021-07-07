@@ -1,6 +1,9 @@
 # OSWE-Prep
 
 
+* https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf
+
+
 ### Practice Labs
 
 **Note:** Only topics from the course will come up on the exam
