@@ -4,7 +4,7 @@ Useful tips and resources for preparing for exam.
 
 
 * https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf
-
+* https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2
 
 ### Practice Labs
 
@@ -46,6 +46,7 @@ Useful tips and resources for preparing for exam.
 | 2 | Payload All the Things | https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files |
 | 3 | sql injection cheat sheet | https://portswigger.net/web-security/sql-injection/cheat-sheet |
 | 4 | Java Deserialization Cheat Sheet | https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet/blob/master/README.md |
+| 5 | Deserialization Cheat Sheet | https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Deserialization_Cheat_Sheet.md |
 
 
 
@@ -77,11 +78,6 @@ Hackthebox writeups with vulnerabilities and exploitation paths similiar to lab 
 | 8 | Ghoul | Zip Traversal | https://0xrick.github.io/hack-the-box/ghoul/ |
 | 9 | Falafel | SQL Injection (MySQL), Type Juggling | https://0xdf.gitlab.io/2018/06/23/htb-falafel.html |
 | 10 | Fighter | SQL Injection (MS-SQL) | https://fdlucifer.github.io/2020/06/03/fighter/ |
-
-
-
-
-
 
 
 
