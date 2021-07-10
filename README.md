@@ -33,6 +33,8 @@ Useful tips and resources for preparing for exam.
 |--- | ----- | ----- | --- |
 | 1 | Reflected XSS to Account Takeover | Blog | https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6
  |
+ 
+ 
 
 
 
@@ -42,7 +44,10 @@ Useful tips and resources for preparing for exam.
 |--- | ----- | ----- |
 | 1 | reverse shell cheat sheet | https://highon.coffee/blog/reverse-shell-cheat-sheet/ |
 | 2 | Payload All the Things | https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files |
-| 2 | sql injection cheat sheet | https://portswigger.net/web-security/sql-injection/cheat-sheet |
+| 3 | sql injection cheat sheet | https://portswigger.net/web-security/sql-injection/cheat-sheet |
+| 4 | Java Deserialization Cheat Sheet | https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet/blob/master/README.md |
+
+
 
 
 ### Exam Resources and Reporting  
