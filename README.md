@@ -49,7 +49,7 @@ https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xs
 |--- | ----- | ----- | --- |
 | 1 | dev/random/pipe | VulnHub - Free | https://www.vulnhub.com/entry/devrandom-pipe,124/ |
 https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf
-
+https://portswigger.net/web-security/all-labs
 
 
 
