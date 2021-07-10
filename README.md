@@ -18,14 +18,18 @@ Useful tips and resources for preparing for exam.
 | 2 | PentesterLab - SQLi to Shell 2 - MySQL | Pentesterlab - Free  | https://www.pentesterlab.com/exercises/from_sqli_to_shell_II/course |
 | 3 | PentesterLab - SQLi to Shell - Postgres | Pentesterlab - Free  | https://pentesterlab.com/exercises/from_sqli_to_shell_pg_edition/course |
 | 4 | Java Deserialization WebApp | GitHub - Free | https://github.com/hvqzao/java-deserialize-webapp |
-| 4 | XSS and MySQL FILE | Pentesterlab - Free | https://pentesterlab.com/exercises/xss_and_mysql_file/course |
+| 4 | XSS and MySQL FILE | Pentesterlab - Free | https://pentesterlab.com/exercises/xss_and_mysql_file/course, https://sarthaksaini.com/2019/awae/xss-rce.html |
 | 4 | Zors |  VulnHub - Free | https://www.vulnhub.com/entry/tophatsec-zorz,117/ |
 | 4 | XXE-Study |  GitHub - Free | https://github.com/HLOverflow/XXE-study |
 | 4 | GoSecure - Template Injection Workshop | Workshop - Free | https://gosecure.github.io/template-injection-workshop/, https://www.youtube.com/watch?v=I7xQZOvZzIw |
 
 
+### Vulnerability Writeups
 
-
+| Order | Name | Type | Link |
+|--- | ----- | ----- | --- |
+| 1 | Reflected XSS to Account Takeover | Blog | https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6
+ |
 
 
 
@@ -39,17 +43,38 @@ Useful tips and resources for preparing for exam.
 
 
 ### Exam Resources and Reporting  
+Exam related resources that might be useful
+
+| Order |  Name | Link |
+|--- | ----- | ---- | 
 | 1 | Proctoring Student Manual | https://help.offensive-security.com/hc/en-us/articles/360050299352-Proctoring-Tool-Student-Manual |
-| 1 | OSWE Exam Guide | https://help.offensive-security.com/hc/en-us/articles/360046869951l |
-| 1 | Offsec Report Tempalte Generator | https://github.com/noraj/OSCP-Exam-Report-Template-Markdown |
+| 2 | OSWE Exam Guide | https://help.offensive-security.com/hc/en-us/articles/360046869951l |
+| 3 | Offsec Report Tempalte Generator | https://github.com/noraj/OSCP-Exam-Report-Template-Markdown |
+| 4 | oswe review - tips and tricks | https://www.youtube.com/watch?v=ElZ7fFE9Gr4 |
+| 5 | OSWE Review (AWAE Course) | https://stacktrac3.co/oswe-review-awae-course/#Losing_Steam_and_Yolo%E2%80%99ing_It |
+
+
+### HTB Writeups
+Hackthebox writeups with vulnerabilities and exploitation paths similiar to lab and course content. Video walkthroughs of these writeups can also be found [here](https://www.youtube.com/c/ippsec/videos)
+
+| Order | Machine Name | Vulnerability | Link |
+|--- | ----- | ----- | --- |
+| 1 | Popcorn | Insecure File Upload | https://0xdf.gitlab.io/2020/06/23/htb-popcorn.html |
+| 2 | Vault | Insecure File Upload | https://0xrick.github.io/hack-the-box/vault/ |
+| 3 | Arkham | Java Deserialization | https://0xrick.github.io/hack-the-box/arkham/ |
+| 4 | Jsonl | .NET Deserialization | https://0xdf.gitlab.io/2020/02/15/htb-json.html |
+| 5 | Cereal | Authentication Bypass | https://0xdf.gitlab.io/2021/05/29/htb-cereal.html |
+| 6 | Celestial | Node Deserialization | https://0xdf.gitlab.io/2018/08/25/htb-celestial.html |
+| 7 | Unattendedl | SQL Injection (MySQL) | https://0xrick.github.io/hack-the-box/unattended/|
+| 8 | Ghoul | Zip Traversal | https://0xrick.github.io/hack-the-box/ghoul/ |
+| 9 | Falafel | SQL Injection (MySQL), Type Juggling | https://0xdf.gitlab.io/2018/06/23/htb-falafel.html |
+| 10 | Fighter | SQL Injection (MS-SQL) | https://fdlucifer.github.io/2020/06/03/fighter/ |
 
 
 
 
-unattended 
-popcorn 
-https://sarthaksaini.com/2019/awae/xss-rce.html
-https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6
+
+
 
 
 ### Extra
