@@ -39,6 +39,8 @@
 unattended 
 popcorn 
 https://sarthaksaini.com/2019/awae/xss-rce.html
+https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6
+
 
 ### Extra
 
