@@ -22,6 +22,9 @@ Useful tips and resources for preparing for exam.
 | 4 | Zors |  VulnHub - Free | https://www.vulnhub.com/entry/tophatsec-zorz,117/ |
 | 4 | XXE-Study |  GitHub - Free | https://github.com/HLOverflow/XXE-study |
 | 4 | GoSecure - Template Injection Workshop | Workshop - Free | https://gosecure.github.io/template-injection-workshop/, https://www.youtube.com/watch?v=I7xQZOvZzIw |
+| 4 | GoSecure - XXE Workshop | Workshop - Free | https://gosecure.github.io/xxe-workshop/ |
+
+
 
 
 ### Vulnerability Writeups
