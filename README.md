@@ -1,5 +1,7 @@
 # OSWE-Prep
 
+Useful tips and resources for preparing for exam.
+
 
 * https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf
 
@@ -18,6 +20,14 @@
 | 4 | Java Deserialization WebApp | GitHub - Free | https://github.com/hvqzao/java-deserialize-webapp |
 | 4 | XSS and MySQL FILE | Pentesterlab - Free | https://pentesterlab.com/exercises/xss_and_mysql_file/course |
 | 4 | Zors |  VulnHub - Free | https://www.vulnhub.com/entry/tophatsec-zorz,117/ |
+| 4 | XXE-Study |  GitHub - Free | https://github.com/HLOverflow/XXE-study |
+| 4 | GoSecure - Template Injection Workshop | Workshop - Free | https://gosecure.github.io/template-injection-workshop/, https://www.youtube.com/watch?v=I7xQZOvZzIw |
+
+
+
+
+
+
 
 ### Cheat Sheets
 
