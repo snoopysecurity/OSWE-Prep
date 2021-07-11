@@ -45,6 +45,9 @@ Useful tips and resources for preparing for exam.
 | 3 | sql injection cheat sheet | https://portswigger.net/web-security/sql-injection/cheat-sheet |
 | 4 | Java Deserialization Cheat Sheet | https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet/blob/master/README.md |
 | 5 | Deserialization Cheat Sheet | https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Deserialization_Cheat_Sheet.md |
+| 6 | SQL Injection Cheat Sheet | https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/#StringwithoutQuotes |
+
+
 
 
 ### Exam Resources and Reporting  
