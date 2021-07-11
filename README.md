@@ -5,6 +5,7 @@ Useful tips and resources for preparing for exam.
 
 * https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf
 * https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2
+* https://nytrosecurity.com/2018/05/30/understanding-java-deserialization/
 
 ### Practice Labs
 
@@ -35,9 +36,6 @@ Useful tips and resources for preparing for exam.
  |
  
  
-
-
-
 ### Cheat Sheets
 
 | Order | Name |  Link |
@@ -47,8 +45,6 @@ Useful tips and resources for preparing for exam.
 | 3 | sql injection cheat sheet | https://portswigger.net/web-security/sql-injection/cheat-sheet |
 | 4 | Java Deserialization Cheat Sheet | https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet/blob/master/README.md |
 | 5 | Deserialization Cheat Sheet | https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Deserialization_Cheat_Sheet.md |
-
-
 
 
 ### Exam Resources and Reporting  
@@ -82,7 +78,6 @@ Hackthebox writeups with vulnerabilities and exploitation paths similiar to lab 
 
 
 ### Extra
-
 
 | Order | Name | Type | Link |
 |--- | ----- | ----- | --- |
