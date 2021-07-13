@@ -44,7 +44,7 @@ Useful tips and resources for preparing for exam.
 | Order | Name |  Link |
 |--- | ----- | ----- |
 | 1 | reverse shell cheat sheet | https://highon.coffee/blog/reverse-shell-cheat-sheet/ |
-| 2 | Payload All the Things | https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files |
+| 2 | Payload All the Things | https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files, https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Deserialization |
 | 3 | sql injection cheat sheet | https://portswigger.net/web-security/sql-injection/cheat-sheet |
 | 4 | Java Deserialization Cheat Sheet | https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet/blob/master/README.md |
 | 5 | Deserialization Cheat Sheet | https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Deserialization_Cheat_Sheet.md |
