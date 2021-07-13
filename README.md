@@ -8,6 +8,8 @@ Useful tips and resources for preparing for exam.
 * https://nytrosecurity.com/2018/05/30/understanding-java-deserialization/
 * https://owasp.org/www-chapter-vancouver/assets/presentations/2020-05_Exploiting_and_Preventing_Deserialization_Vulnerabilities.pdf
 
+
+
 ### Practice Labs
 
 **Note:** Only topics from the course will come up on the exam
@@ -88,7 +90,8 @@ Hackthebox writeups with vulnerabilities and exploitation paths similiar to lab 
 | 1 | dev/random/pipe | VulnHub - Free | https://www.vulnhub.com/entry/devrandom-pipe,124/ |
 https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf
 https://portswigger.net/web-security/all-labs
-
-
+* https://www.slideshare.net/MSbluehat/dangerous-contents-securing-net-deserialization, https://www.youtube.com/watch?v=oxlD8VWWHE8
+* https://www.youtube.com/watch?v=oUAeWhW5b8c
+* https://www.youtube.com/watch?v=eDfGpu3iE4Q
 
 
