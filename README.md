@@ -6,6 +6,7 @@ Useful tips and resources for preparing for exam.
 * https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf
 * https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2
 * https://nytrosecurity.com/2018/05/30/understanding-java-deserialization/
+* https://owasp.org/www-chapter-vancouver/assets/presentations/2020-05_Exploiting_and_Preventing_Deserialization_Vulnerabilities.pdf
 
 ### Practice Labs
 
