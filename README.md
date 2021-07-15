@@ -37,7 +37,34 @@ Useful tips and resources for preparing for exam.
 |--- | ----- | ----- | --- |
 | 1 | Reflected XSS to Account Takeover | Blog | https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6
  |
- 
+
+
+https://pentest.blog/advisory-cryptolog-unauthenticated-remote-code-execution/
+https://pentest.blog/unexpected-journey-3-visiting-another-siem-and-uncovering-pre-auth-privileged-remote-code-execution/
+https://pentest.blog/one-ring-to-rule-them-all-same-rce-on-multiple-trend-micro-products/
+https://pentest.blog/unexpected-journey-5-from-weak-password-to-rce-on-symantec-messaging-gateway/
+https://pentest.blog/advisory-osticket-v1-10-unauthenticated-sql-injection/
+https://pentest.blog/advisory-manageengine-applications-manager-remote-code-execution-sqli-and/
+https://pentest.blog/advisory-xplico-unauthenticated-remote-code-execution-cve-2017-16666/
+https://pentest.blog/vesta-control-panel-second-order-remote-code-execution-0day-step-by-step-analysis/
+https://pentest.blog/unexpected-journey-6-all-ways-lead-to-rome-remote-code-execution-on-microfocus-secure-messaging-gateway/
+https://pentest.blog/advisory-mailcleaner-community-edition-remote-code-execution/
+https://pentest.blog/advisory-denyall-web-application-firewall-unauthenticated-remote-code-execution/
+
+
+### Scripting
+
+Python examples of pocs that can be used for write single click pocs
+
+| Order | Name | Type | Link |
+|--- | ----- | ----- | --- |
+| 1 | HTB Scripts | https://github.com/s0j0hn/AWAE-OSWE-Prep |
+| 2 | OutHackThem - Single Script Exploit | https://github.com/wetw0rk/AWAE-PREP/tree/master/Community%20Contributions%20%26%20Enhancements/Code%20Improvements/XSS%20and%20MySQL/OutHackThem%20-%20Single%20Script%20Exploit |
+| 3 | SQLi scripts |  https://github.com/wetw0rk/AWAE-PREP/tree/master/Community%20Contributions%20%26%20Enhancements/Challenges/PortSwigger |
+| 4 | A python based blind SQL injection exploitation script|  https://github.com/21y4d/blindSQLir |
+
+
+
  
 ### Cheat Sheets
 
@@ -93,5 +120,7 @@ https://portswigger.net/web-security/all-labs
 * https://www.slideshare.net/MSbluehat/dangerous-contents-securing-net-deserialization, https://www.youtube.com/watch?v=oxlD8VWWHE8
 * https://www.youtube.com/watch?v=oUAeWhW5b8c
 * https://www.youtube.com/watch?v=eDfGpu3iE4Q
-
-
+* https://securitycafe.ro/2015/01/05/understanding-php-object-injection/
+* https://nitesculucian.github.io/2018/10/05/php-object-injection-cheat-sheet/
+* https://www.vulnhub.com/entry/devrandom-pipe,124/
+https://pentest.blog/how-to-test-horizontal-vertical-authorization-issues-in-web-application/
