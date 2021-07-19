@@ -45,7 +45,8 @@ Real world examples
 |--- | ----- | ----- | --- |
 | 1 | Reflected XSS to Account Takeover | Blog | https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6 |
 | 2 | Unexpected Journey into the AlienVault OSSIM/USM During Engagement | Blog | https://pentest.blog/unexpected-journey-into-the-alienvault-ossimusm-during-engagement/ |
-
+| 3 | Vesta Control Panel Second Order Remote Code Execution 0day Step-by-Step Analysis | https://pentest.blog/vesta-control-panel-second-order-remote-code-execution-0day-step-by-step-analysis/ |
+| 4 | osTicket v1.10 Unauthenticated SQL Injection (CVE-2017-14396 ) | https://pentest.blog/advisory-osticket-v1-10-unauthenticated-sql-injection// |
 
 
 
@@ -120,11 +121,8 @@ Good resources to learn before starting AWAE or after finishing your OSWE exam
 | 3 | Portswigger Websecurityacademy | https://portswigger.net/web-security/all-labs |
 | 4 | How to Test Horizontal & Vertical Authorization Issues in Web Application | https://pentest.blog/how-to-test-horizontal-vertical-authorization-issues-in-web-application/ |
 | 5 | OWASP Code Review Guide | https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf/ |
-| 6 | Vesta Control Panel Second Order Remote Code Execution 0day Step-by-Step Analysis | https://pentest.blog/vesta-control-panel-second-order-remote-code-execution-0day-step-by-step-analysis/ |
-| 7 | Seagate Central Storage Remote Code Execution 0day| https://pentest.blog/advisory-seagate-central-storage-remote-code-execution/ |
-
-
-
+| 6 | Seagate Central Storage Remote Code Execution 0day| https://pentest.blog/advisory-seagate-central-storage-remote-code-execution/ |
+| 7 | CVE-2017-6398 Trend Micro InterScan Messaging Security (Virtual Appliance) Remote Code Execution| https://pentest.blog/advisory-trend-micro-interscan-messaging-security-virtual-appliance-remote-code-execution/ |
 
 
 
