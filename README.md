@@ -2,17 +2,23 @@
 
 Useful tips and resources for preparing for exam.
 
+### Learning Material
 
-* https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf
-* https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2
-* https://nytrosecurity.com/2018/05/30/understanding-java-deserialization/
-* https://owasp.org/www-chapter-vancouver/assets/presentations/2020-05_Exploiting_and_Preventing_Deserialization_Vulnerabilities.pdf
+| Order | Name | Link |
+|--- | ----- | ----- |
+| 1 | A Deep Dive into XXE | https://www.synack.com/blog/a-deep-dive-into-xxe-injection/ |
+| 2 | Testing and Exploiting Java Deserialization | https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2 |
+| 3 | Understanding Java Deserialization | https://nytrosecurity.com/2018/05/30/understanding-java-deserialization/ |
+| 4 | Exploiting_and_Preventing_Deserialization_Vulnerabilities | https://owasp.org/www-chapter-vancouver/assets/presentations/2020-05_Exploiting_and_Preventing_Deserialization_Vulnerabilities.pdf |
+| 5 | PHP Magic Tricks Type Juggling | https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf |
+| 6 | Paul's Security Weekly #572-  Type Juggling | https://www.youtube.com/watch?v=ASYuK01H3Po |
+| 7 | Ippsec PHP Deserialization and PHAR Deserialization | https://www.youtube.com/watch?v=HaW15aMzBUM, https://www.youtube.com/watch?v=fHZKSCMWqF4 |
 
 
 
 ### Practice Labs
 
-**Note:** Only topics from the course will come up on the exam
+**Note:** Only topics from the course will come up on the exam in most cases with slight variations.
 
 | Order | Name | Type | Link |
 |--- | ----- | ----- | --- |
@@ -28,10 +34,12 @@ Useful tips and resources for preparing for exam.
 | 4 | GoSecure - Template Injection Workshop | Workshop - Free | https://gosecure.github.io/template-injection-workshop/, https://www.youtube.com/watch?v=I7xQZOvZzIw |
 | 4 | GoSecure - XXE Workshop | Workshop - Free | https://gosecure.github.io/xxe-workshop/ |
 | 4 | Pwnworks | .NET Deserialization Github - Free | https://github.com/abhisek/pwnworks/tree/master/challenges/dotnet-deserialization |
-
+| 1 | dev/random/pipe | PHP Deserialization VulnHub - Free | https://www.vulnhub.com/entry/devrandom-pipe,124/ |
 
 
 ### Vulnerability Writeups
+
+Real world examples
 
 | Order | Name | Type | Link |
 |--- | ----- | ----- | --- |
@@ -58,10 +66,11 @@ Python examples of pocs that can be used for write single click pocs
 
 | Order | Name | Type | Link |
 |--- | ----- | ----- | --- |
-| 1 | HTB Scripts | https://github.com/s0j0hn/AWAE-OSWE-Prep |
-| 2 | OutHackThem - Single Script Exploit | https://github.com/wetw0rk/AWAE-PREP/tree/master/Community%20Contributions%20%26%20Enhancements/Code%20Improvements/XSS%20and%20MySQL/OutHackThem%20-%20Single%20Script%20Exploit |
-| 3 | SQLi scripts |  https://github.com/wetw0rk/AWAE-PREP/tree/master/Community%20Contributions%20%26%20Enhancements/Challenges/PortSwigger |
-| 4 | A python based blind SQL injection exploitation script|  https://github.com/21y4d/blindSQLir |
+| 1 | Python requests documentation | https://docs.python-requests.org/en/master/ |
+| 2 | HTB Scripts | https://github.com/s0j0hn/AWAE-OSWE-Prep |
+| 3 | OutHackThem - Single Script Exploit | https://github.com/wetw0rk/AWAE-PREP/tree/master/Community%20Contributions%20%26%20Enhancements/Code%20Improvements/XSS%20and%20MySQL/OutHackThem%20-%20Single%20Script%20Exploit |
+| 4 | SQLi scripts |  https://github.com/wetw0rk/AWAE-PREP/tree/master/Community%20Contributions%20%26%20Enhancements/Challenges/PortSwigger |
+| 5 | A python based blind SQL injection exploitation script|  https://github.com/21y4d/blindSQLir |
 
 
 
@@ -114,7 +123,7 @@ Hackthebox writeups with vulnerabilities and exploitation paths similiar to lab 
 
 | Order | Name | Type | Link |
 |--- | ----- | ----- | --- |
-| 1 | dev/random/pipe | VulnHub - Free | https://www.vulnhub.com/entry/devrandom-pipe,124/ |
+
 https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf
 https://portswigger.net/web-security/all-labs
 * https://www.slideshare.net/MSbluehat/dangerous-contents-securing-net-deserialization, https://www.youtube.com/watch?v=oxlD8VWWHE8
