@@ -43,21 +43,11 @@ Real world examples
 
 | Order | Name | Type | Link |
 |--- | ----- | ----- | --- |
-| 1 | Reflected XSS to Account Takeover | Blog | https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6
- |
+| 1 | Reflected XSS to Account Takeover | Blog | https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6 |
+| 2 | Unexpected Journey into the AlienVault OSSIM/USM During Engagement | Blog | https://pentest.blog/unexpected-journey-into-the-alienvault-ossimusm-during-engagement/ |
 
 
-https://pentest.blog/advisory-cryptolog-unauthenticated-remote-code-execution/
-https://pentest.blog/unexpected-journey-3-visiting-another-siem-and-uncovering-pre-auth-privileged-remote-code-execution/
-https://pentest.blog/one-ring-to-rule-them-all-same-rce-on-multiple-trend-micro-products/
-https://pentest.blog/unexpected-journey-5-from-weak-password-to-rce-on-symantec-messaging-gateway/
-https://pentest.blog/advisory-osticket-v1-10-unauthenticated-sql-injection/
-https://pentest.blog/advisory-manageengine-applications-manager-remote-code-execution-sqli-and/
-https://pentest.blog/advisory-xplico-unauthenticated-remote-code-execution-cve-2017-16666/
-https://pentest.blog/vesta-control-panel-second-order-remote-code-execution-0day-step-by-step-analysis/
-https://pentest.blog/unexpected-journey-6-all-ways-lead-to-rome-remote-code-execution-on-microfocus-secure-messaging-gateway/
-https://pentest.blog/advisory-mailcleaner-community-edition-remote-code-execution/
-https://pentest.blog/advisory-denyall-web-application-firewall-unauthenticated-remote-code-execution/
+
 
 
 ### Scripting
@@ -119,17 +109,31 @@ Hackthebox writeups with vulnerabilities and exploitation paths similiar to lab 
 
 
 
-### Extra
+### Pre/Post-AWAE
 
-| Order | Name | Type | Link |
-|--- | ----- | ----- | --- |
+Good resources to learn before starting AWAE or after finishing your OSWE exam
 
-https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf
-https://portswigger.net/web-security/all-labs
+| Order | Name | Link |
+|--- | ----- | ----- |
+| 1 | Exploiting Second Order SQLi Flaws by using Burp & Custom Sqlmap Tamper | https://pentest.blog/exploiting-second-order-sqli-flaws-by-using-burp-custom-sqlmap-tamper/ |
+| 2 | Pentesterlab Free | https://www.pentesterlab.com/exercises?only=free |
+| 3 | Portswigger Websecurityacademy | https://portswigger.net/web-security/all-labs |
+| 4 | How to Test Horizontal & Vertical Authorization Issues in Web Application | https://pentest.blog/how-to-test-horizontal-vertical-authorization-issues-in-web-application/ |
+| 5 | OWASP Code Review Guide | https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf/ |
+| 6 | Vesta Control Panel Second Order Remote Code Execution 0day Step-by-Step Analysis | https://pentest.blog/vesta-control-panel-second-order-remote-code-execution-0day-step-by-step-analysis/ |
+
+
+
+
+
+
+
+
+
+
+
 * https://www.slideshare.net/MSbluehat/dangerous-contents-securing-net-deserialization, https://www.youtube.com/watch?v=oxlD8VWWHE8
 * https://www.youtube.com/watch?v=oUAeWhW5b8c
 * https://www.youtube.com/watch?v=eDfGpu3iE4Q
 * https://securitycafe.ro/2015/01/05/understanding-php-object-injection/
 * https://nitesculucian.github.io/2018/10/05/php-object-injection-cheat-sheet/
-* https://www.vulnhub.com/entry/devrandom-pipe,124/
-https://pentest.blog/how-to-test-horizontal-vertical-authorization-issues-in-web-application/
