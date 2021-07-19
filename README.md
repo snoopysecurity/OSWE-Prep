@@ -121,7 +121,7 @@ Good resources to learn before starting AWAE or after finishing your OSWE exam
 | 4 | How to Test Horizontal & Vertical Authorization Issues in Web Application | https://pentest.blog/how-to-test-horizontal-vertical-authorization-issues-in-web-application/ |
 | 5 | OWASP Code Review Guide | https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf/ |
 | 6 | Vesta Control Panel Second Order Remote Code Execution 0day Step-by-Step Analysis | https://pentest.blog/vesta-control-panel-second-order-remote-code-execution-0day-step-by-step-analysis/ |
-
+| 7 | Seagate Central Storage Remote Code Execution 0day| https://pentest.blog/advisory-seagate-central-storage-remote-code-execution/ |
 
 
 
