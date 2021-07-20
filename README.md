@@ -15,6 +15,12 @@ Useful tips and resources for preparing for exam.
 | 7 | Ippsec PHP Deserialization and PHAR Deserialization | https://www.youtube.com/watch?v=HaW15aMzBUM, https://www.youtube.com/watch?v=fHZKSCMWqF4 |
 | 8 | Code that gets you pwn(s\|'d) - snyff | https://www.youtube.com/watch?v=BNHKlj-PMDc |
 | 9 | Hacktricks SQL Injection | https://book.hacktricks.xyz/pentesting-web/sql-injection |
+| 9 | Understanding PHP Object Injection | https://securitycafe.ro/2015/01/05/understanding-php-object-injection/ |
+| 9 | Attacking .NET deserialization - Alvaro Muñoz | https://www.youtube.com/watch?v=eDfGpu3iE4Q |
+
+
+
+
 
 ### Practice Labs
 
@@ -52,6 +58,10 @@ Real world examples
 | 7 | Microfocus RCE  | https://pentest.blog/unexpected-journey-6-all-ways-lead-to-rome-remote-code-execution-on-microfocus-secure-messaging-gateway/ |
 | 8 | Xplico Unauthenticated Remote Code Execution CVE-2017-16666 | https://pentest.blog/advisory-xplico-unauthenticated-remote-code-execution-cve-2017-16666/ |
 | 9 | Visiting Another SIEM and Uncovering Pre-auth Privileged Remote Code Execution | https://pentest.blog/why-secure-design-matters-secure-approach-to-session-validation-on-modern-frameworks-django-solution/, https://pentest.blog/unexpected-journey-3-visiting-another-siem-and-uncovering-pre-auth-privileged-remote-code-execution/ |
+| 10 | dotCMS 5.1.5: Exploiting H2 SQL injection to RCE | https://blog.sonarsource.com/dotcms515-sqli-to-rce?redirect=rips |
+
+
+
 
 
 ### Scripting
@@ -79,7 +89,7 @@ Python examples of pocs that can be used for write single click pocs
 | 4 | Java Deserialization Cheat Sheet | https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet/blob/master/README.md |
 | 5 | Deserialization Cheat Sheet | https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Deserialization_Cheat_Sheet.md |
 | 6 | SQL Injection Cheat Sheet | https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/#StringwithoutQuotes |
-
+| 7 | PHP Object Injection Cheat Sheet | https://nitesculucian.github.io/2018/10/05/php-object-injection-cheat-sheet/ |
 
 
 
@@ -132,15 +142,10 @@ Good resources to learn before starting AWAE or after finishing your OSWE exam
 | 11 | One ring to rule them all – Same RCE on multiple Trend Micro products | https://pentest.blog/one-ring-to-rule-them-all-same-rce-on-multiple-trend-micro-products/ |
 | 12 | AlienVault RCE | https://pentest.blog/unexpected-journey-into-the-alienvault-ossimusm-during-engagement/ |
 | 13 | From weak password to RCE on Symantec Messaging Gateway (CVE-2017-6326) | https://pentest.blog/unexpected-journey-5-from-weak-password-to-rce-on-symantec-messaging-gateway/ |
+| 13 | Security .NET Deserialization | https://www.slideshare.net/MSbluehat/dangerous-contents-securing-net-deserialization, https://www.youtube.com/watch?v=oxlD8VWWHE8 |
+| 13 | Friday the 13th: JSON Attacks | https://www.youtube.com/watch?v=oUAeWhW5b8c |
 
 
 
 
 
-
-
-* https://www.slideshare.net/MSbluehat/dangerous-contents-securing-net-deserialization, https://www.youtube.com/watch?v=oxlD8VWWHE8
-* https://www.youtube.com/watch?v=oUAeWhW5b8c
-* https://www.youtube.com/watch?v=eDfGpu3iE4Q
-* https://securitycafe.ro/2015/01/05/understanding-php-object-injection/
-* https://nitesculucian.github.io/2018/10/05/php-object-injection-cheat-sheet/
