@@ -47,8 +47,12 @@ Real world examples
 | 2 | Unexpected Journey into the AlienVault OSSIM/USM During Engagement | Blog | https://pentest.blog/unexpected-journey-into-the-alienvault-ossimusm-during-engagement/ |
 | 3 | Vesta Control Panel Second Order Remote Code Execution 0day Step-by-Step Analysis | https://pentest.blog/vesta-control-panel-second-order-remote-code-execution-0day-step-by-step-analysis/ |
 | 4 | osTicket v1.10 Unauthenticated SQL Injection (CVE-2017-14396 ) | https://pentest.blog/advisory-osticket-v1-10-unauthenticated-sql-injection// |
-
-
+| 5 | DenyAll Web Application Firewall Unauthenticated Remote Code Execution (CVE-2017-14706) | https://pentest.blog/advisory-denyall-web-application-firewall-unauthenticated-remote-code-execution/ |
+| 6 | ManageEngine Applications Manager Remote Code Execution and SQLi | https://pentest.blog/advisory-manageengine-applications-manager-remote-code-execution-sqli-and/ |
+| 7 | ManageEngine Applications Manager Remote Code Execution and SQLi | https://pentest.blog/unexpected-journey-6-all-ways-lead-to-rome-remote-code-execution-on-microfocus-secure-messaging-gateway/ |
+ | https://pentest.blog/unexpected-journey-6-all-ways-lead-to-rome-remote-code-execution-on-microfocus-secure-messaging-gateway/ |
+| 7 | ManageEngine Applications Manager Remote Code Execution and SQLi | https://pentest.blog/unexpected-journey-6-all-ways-lead-to-rome-remote-code-execution-on-microfocus-secure-messaging-gateway/ |
+| 8 | MailCleaner Community Edition Remote Code Execution CVE-2018-20323 | https://pentest.blog/advisory-mailcleaner-community-edition-remote-code-execution/ |
 
 
 ### Scripting
@@ -123,6 +127,10 @@ Good resources to learn before starting AWAE or after finishing your OSWE exam
 | 5 | OWASP Code Review Guide | https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf/ |
 | 6 | Seagate Central Storage Remote Code Execution 0day| https://pentest.blog/advisory-seagate-central-storage-remote-code-execution/ |
 | 7 | CVE-2017-6398 Trend Micro InterScan Messaging Security (Virtual Appliance) Remote Code Execution| https://pentest.blog/advisory-trend-micro-interscan-messaging-security-virtual-appliance-remote-code-execution/ |
+| 8 | Unexpected Journey #2 – Taking Down Entire Domain Using Vulnerabilities of a SIEM Product | https://pentest.blog/unexpected-journey-2-taking-down-entire-domain-because-of-siem-product/ |
+| 9 | Unexpected Journey #7 – GravCMS Unauthenticated Arbitrary YAML Write/Update leads to Code Execution (CVE-2021-21425) | https://pentest.blog/unexpected-journey-7-gravcms-unauthenticated-arbitrary-yaml-write-update-leads-to-code-execution/ |
+
+
 
 
 
