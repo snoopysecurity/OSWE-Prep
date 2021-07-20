@@ -51,7 +51,7 @@ Real world examples
 | 6 | ManageEngine Applications Manager Remote Code Execution and SQLi | https://pentest.blog/advisory-manageengine-applications-manager-remote-code-execution-sqli-and/ |
 | 7 | Microfocus RCE  | https://pentest.blog/unexpected-journey-6-all-ways-lead-to-rome-remote-code-execution-on-microfocus-secure-messaging-gateway/ |
 | 8 | Xplico Unauthenticated Remote Code Execution CVE-2017-16666 | https://pentest.blog/advisory-xplico-unauthenticated-remote-code-execution-cve-2017-16666/ |
-| 9 | Visiting Another SIEM and Uncovering Pre-auth Privileged Remote Code Execution | https://pentest.blog/unexpected-journey-3-visiting-another-siem-and-uncovering-pre-auth-privileged-remote-code-execution/ |
+| 9 | Visiting Another SIEM and Uncovering Pre-auth Privileged Remote Code Execution | https://pentest.blog/why-secure-design-matters-secure-approach-to-session-validation-on-modern-frameworks-django-solution/, https://pentest.blog/unexpected-journey-3-visiting-another-siem-and-uncovering-pre-auth-privileged-remote-code-execution/ |
 
 
 ### Scripting
