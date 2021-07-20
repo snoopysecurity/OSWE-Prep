@@ -14,7 +14,7 @@ Useful tips and resources for preparing for exam.
 | 6 | Paul's Security Weekly #572-  Type Juggling | https://www.youtube.com/watch?v=ASYuK01H3Po |
 | 7 | Ippsec PHP Deserialization and PHAR Deserialization | https://www.youtube.com/watch?v=HaW15aMzBUM, https://www.youtube.com/watch?v=fHZKSCMWqF4 |
 | 8 | Code that gets you pwn(s\|'d) - snyff | https://www.youtube.com/watch?v=BNHKlj-PMDc |
-
+| 9 | Hacktricks SQL Injection | https://book.hacktricks.xyz/pentesting-web/sql-injection |
 
 ### Practice Labs
 
