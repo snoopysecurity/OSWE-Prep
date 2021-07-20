@@ -13,7 +13,7 @@ Useful tips and resources for preparing for exam.
 | 5 | PHP Magic Tricks Type Juggling | https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf |
 | 6 | Paul's Security Weekly #572-  Type Juggling | https://www.youtube.com/watch?v=ASYuK01H3Po |
 | 7 | Ippsec PHP Deserialization and PHAR Deserialization | https://www.youtube.com/watch?v=HaW15aMzBUM, https://www.youtube.com/watch?v=fHZKSCMWqF4 |
-
+| 8 | Code that gets you pwn(s\|'d) - snyff | https://www.youtube.com/watch?v=BNHKlj-PMDc |
 
 
 ### Practice Labs
@@ -41,18 +41,17 @@ Useful tips and resources for preparing for exam.
 
 Real world examples
 
-| Order | Name | Type | Link |
-|--- | ----- | ----- | --- |
-| 1 | Reflected XSS to Account Takeover | Blog | https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6 |
-| 2 | Unexpected Journey into the AlienVault OSSIM/USM During Engagement | Blog | https://pentest.blog/unexpected-journey-into-the-alienvault-ossimusm-during-engagement/ |
+| Order | Name | Link |
+|--- | ----- | ----- |
+| 1 | Reflected XSS to Account Takeover | https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6 |
+| 2 | Unexpected Journey into the AlienVault OSSIM/USM During Engagement | https://pentest.blog/unexpected-journey-into-the-alienvault-ossimusm-during-engagement/ |
 | 3 | Vesta Control Panel Second Order Remote Code Execution 0day Step-by-Step Analysis | https://pentest.blog/vesta-control-panel-second-order-remote-code-execution-0day-step-by-step-analysis/ |
 | 4 | osTicket v1.10 Unauthenticated SQL Injection (CVE-2017-14396 ) | https://pentest.blog/advisory-osticket-v1-10-unauthenticated-sql-injection// |
 | 5 | DenyAll Web Application Firewall Unauthenticated Remote Code Execution (CVE-2017-14706) | https://pentest.blog/advisory-denyall-web-application-firewall-unauthenticated-remote-code-execution/ |
 | 6 | ManageEngine Applications Manager Remote Code Execution and SQLi | https://pentest.blog/advisory-manageengine-applications-manager-remote-code-execution-sqli-and/ |
-| 7 | ManageEngine Applications Manager Remote Code Execution and SQLi | https://pentest.blog/unexpected-journey-6-all-ways-lead-to-rome-remote-code-execution-on-microfocus-secure-messaging-gateway/ |
- | https://pentest.blog/unexpected-journey-6-all-ways-lead-to-rome-remote-code-execution-on-microfocus-secure-messaging-gateway/ |
-| 7 | ManageEngine Applications Manager Remote Code Execution and SQLi | https://pentest.blog/unexpected-journey-6-all-ways-lead-to-rome-remote-code-execution-on-microfocus-secure-messaging-gateway/ |
-| 8 | MailCleaner Community Edition Remote Code Execution CVE-2018-20323 | https://pentest.blog/advisory-mailcleaner-community-edition-remote-code-execution/ |
+| 7 | Microfocus RCE  | https://pentest.blog/unexpected-journey-6-all-ways-lead-to-rome-remote-code-execution-on-microfocus-secure-messaging-gateway/ |
+| 8 | Xplico Unauthenticated Remote Code Execution CVE-2017-16666 | https://pentest.blog/advisory-xplico-unauthenticated-remote-code-execution-cve-2017-16666/ |
+| 9 | Visiting Another SIEM and Uncovering Pre-auth Privileged Remote Code Execution | https://pentest.blog/unexpected-journey-3-visiting-another-siem-and-uncovering-pre-auth-privileged-remote-code-execution/ |
 
 
 ### Scripting
@@ -129,8 +128,10 @@ Good resources to learn before starting AWAE or after finishing your OSWE exam
 | 7 | CVE-2017-6398 Trend Micro InterScan Messaging Security (Virtual Appliance) Remote Code Execution| https://pentest.blog/advisory-trend-micro-interscan-messaging-security-virtual-appliance-remote-code-execution/ |
 | 8 | Unexpected Journey #2 – Taking Down Entire Domain Using Vulnerabilities of a SIEM Product | https://pentest.blog/unexpected-journey-2-taking-down-entire-domain-because-of-siem-product/ |
 | 9 | Unexpected Journey #7 – GravCMS Unauthenticated Arbitrary YAML Write/Update leads to Code Execution (CVE-2021-21425) | https://pentest.blog/unexpected-journey-7-gravcms-unauthenticated-arbitrary-yaml-write-update-leads-to-code-execution/ |
-
-
+| 10 | MailCleaner Community Edition Remote Code Execution CVE-2018-20323 | https://pentest.blog/advisory-mailcleaner-community-edition-remote-code-execution/ |
+| 11 | One ring to rule them all – Same RCE on multiple Trend Micro products | https://pentest.blog/one-ring-to-rule-them-all-same-rce-on-multiple-trend-micro-products/ |
+| 12 | AlienVault RCE | https://pentest.blog/unexpected-journey-into-the-alienvault-ossimusm-during-engagement/ |
+| 13 | From weak password to RCE on Symantec Messaging Gateway (CVE-2017-6326) | https://pentest.blog/unexpected-journey-5-from-weak-password-to-rce-on-symantec-messaging-gateway/ |
 
 
 
