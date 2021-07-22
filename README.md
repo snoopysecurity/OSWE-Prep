@@ -15,9 +15,9 @@ Useful tips and resources for preparing for exam.
 | 7 | Ippsec PHP Deserialization and PHAR Deserialization | https://www.youtube.com/watch?v=HaW15aMzBUM, https://www.youtube.com/watch?v=fHZKSCMWqF4 |
 | 8 | Code that gets you pwn(s\|'d) - snyff | https://www.youtube.com/watch?v=BNHKlj-PMDc |
 | 9 | Hacktricks SQL Injection | https://book.hacktricks.xyz/pentesting-web/sql-injection |
-| 9 | Understanding PHP Object Injection | https://securitycafe.ro/2015/01/05/understanding-php-object-injection/ |
-| 9 | Attacking .NET deserialization - Alvaro Muñoz | https://www.youtube.com/watch?v=eDfGpu3iE4Q |
-| 10 | Hacktricks File Upload | https://book.hacktricks.xyz/pentesting-web/file-upload |
+| 10 | Understanding PHP Object Injection | https://securitycafe.ro/2015/01/05/understanding-php-object-injection/ |
+| 11 | Attacking .NET deserialization - Alvaro Muñoz | https://www.youtube.com/watch?v=eDfGpu3iE4Q |
+| 12 | Hacktricks File Upload | https://book.hacktricks.xyz/pentesting-web/file-upload |
 
 
 
@@ -30,17 +30,17 @@ Useful tips and resources for preparing for exam.
 |--- | ----- | ----- | --- |
 | 1 | SECURECODE | VulnHub - Free | https://www.vulnhub.com/entry/securecode-1,651/ |
 | 2 | Cryptobank1 | VulnHub - Free | https://www.vulnhub.com/entry/cryptobank-1,467/ |
-| 2 | PentesterLab - SQLi to Shell - MySQL | Pentesterlab - Free | https://pentesterlab.com/exercises/from_sqli_to_shell/course |
-| 2 | PentesterLab - SQLi to Shell 2 - MySQL | Pentesterlab - Free  | https://www.pentesterlab.com/exercises/from_sqli_to_shell_II/course |
-| 3 | PentesterLab - SQLi to Shell - Postgres | Pentesterlab - Free  | https://pentesterlab.com/exercises/from_sqli_to_shell_pg_edition/course |
-| 4 | Java Deserialization WebApp | GitHub - Free | https://github.com/hvqzao/java-deserialize-webapp |
-| 4 | XSS and MySQL FILE | Pentesterlab - Free | https://pentesterlab.com/exercises/xss_and_mysql_file/course, https://sarthaksaini.com/2019/awae/xss-rce.html |
-| 4 | Zors |  VulnHub - Free | https://www.vulnhub.com/entry/tophatsec-zorz,117/ |
-| 4 | XXE-Study |  GitHub - Free | https://github.com/HLOverflow/XXE-study |
-| 4 | GoSecure - Template Injection Workshop | Workshop - Free | https://gosecure.github.io/template-injection-workshop/, https://www.youtube.com/watch?v=I7xQZOvZzIw |
-| 4 | GoSecure - XXE Workshop | Workshop - Free | https://gosecure.github.io/xxe-workshop/ |
-| 4 | Pwnworks | .NET Deserialization Github - Free | https://github.com/abhisek/pwnworks/tree/master/challenges/dotnet-deserialization |
-| 1 | dev/random/pipe | PHP Deserialization VulnHub - Free | https://www.vulnhub.com/entry/devrandom-pipe,124/ |
+| 3 | PentesterLab - SQLi to Shell - MySQL | Pentesterlab - Free | https://pentesterlab.com/exercises/from_sqli_to_shell/course |
+| 4 | PentesterLab - SQLi to Shell 2 - MySQL | Pentesterlab - Free  | https://www.pentesterlab.com/exercises/from_sqli_to_shell_II/course |
+| 5 | PentesterLab - SQLi to Shell - Postgres | Pentesterlab - Free  | https://pentesterlab.com/exercises/from_sqli_to_shell_pg_edition/course |
+| 6 | Java Deserialization WebApp | GitHub - Free | https://github.com/hvqzao/java-deserialize-webapp |
+| 7 | XSS and MySQL FILE | Pentesterlab - Free | https://pentesterlab.com/exercises/xss_and_mysql_file/course, https://sarthaksaini.com/2019/awae/xss-rce.html |
+| 8 | Zors |  VulnHub - Free | https://www.vulnhub.com/entry/tophatsec-zorz,117/ |
+| 9 | XXE-Study |  GitHub - Free | https://github.com/HLOverflow/XXE-study |
+| 10 | GoSecure - Template Injection Workshop | Workshop - Free | https://gosecure.github.io/template-injection-workshop/, https://www.youtube.com/watch?v=I7xQZOvZzIw |
+| 11 | GoSecure - XXE Workshop | Workshop - Free | https://gosecure.github.io/xxe-workshop/ |
+| 12 | Pwnworks | .NET Deserialization Github - Free | https://github.com/abhisek/pwnworks/tree/master/challenges/dotnet-deserialization |
+| 13 | dev/random/pipe | PHP Deserialization VulnHub - Free | https://www.vulnhub.com/entry/devrandom-pipe,124/ |
 
 
 ### Vulnerability Writeups
@@ -50,8 +50,7 @@ Real world examples
 | Order | Name | Link |
 |--- | ----- | ----- |
 | 1 | Reflected XSS to Account Takeover | https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6 |
-
-| 10 | dotCMS 5.1.5: Exploiting H2 SQL injection to RCE | https://blog.sonarsource.com/dotcms515-sqli-to-rce?redirect=rips |
+| 2 | dotCMS 5.1.5: Exploiting H2 SQL injection to RCE | https://blog.sonarsource.com/dotcms515-sqli-to-rce?redirect=rips |
 
 
 
@@ -127,9 +126,8 @@ Good resources to learn before starting AWAE or after finishing your OSWE exam
 | 3 | Portswigger Websecurityacademy | https://portswigger.net/web-security/all-labs |
 | 4 | How to Test Horizontal & Vertical Authorization Issues in Web Application | https://pentest.blog/how-to-test-horizontal-vertical-authorization-issues-in-web-application/ |
 | 5 | OWASP Code Review Guide | https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf/ |
-
-| 13 | Security .NET Deserialization | https://www.slideshare.net/MSbluehat/dangerous-contents-securing-net-deserialization, https://www.youtube.com/watch?v=oxlD8VWWHE8 |
-| 13 | Friday the 13th: JSON Attacks | https://www.youtube.com/watch?v=oUAeWhW5b8c |
+| 6 | Security .NET Deserialization | https://www.slideshare.net/MSbluehat/dangerous-contents-securing-net-deserialization, https://www.youtube.com/watch?v=oxlD8VWWHE8 |
+| 7 | Friday the 13th: JSON Attacks | https://www.youtube.com/watch?v=oUAeWhW5b8c |
 
 
 
