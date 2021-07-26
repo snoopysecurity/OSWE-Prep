@@ -51,6 +51,7 @@ Real world examples
 |--- | ----- | ----- |
 | 1 | Reflected XSS to Account Takeover | https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6 |
 | 2 | dotCMS 5.1.5: Exploiting H2 SQL injection to RCE | https://blog.sonarsource.com/dotcms515-sqli-to-rce?redirect=rips |
+| 3 | ATutor Authentication Bypass | https://rebraws.github.io/ATutorAuthBypass/ |
 
 
 
