@@ -129,7 +129,7 @@ Good resources to learn before starting AWAE or after finishing your OSWE exam
 | 5 | OWASP Code Review Guide | https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf/ |
 | 6 | Security .NET Deserialization | https://www.slideshare.net/MSbluehat/dangerous-contents-securing-net-deserialization, https://www.youtube.com/watch?v=oxlD8VWWHE8 |
 | 7 | Friday the 13th: JSON Attacks | https://www.youtube.com/watch?v=oUAeWhW5b8c |
-
+| 8 | Hacker101 - Source Code Review | https://www.hacker101.com/sessions/source_review.html |
 
 
 
